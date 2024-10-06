@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Unity_Engine\\Editor_Window\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CECB20A-4970-441D-BAA7-733319EFF28A}|Editor_Window\\Editor_Window.vcxproj|C:\\Work\\Unity_Engine\\Editor_Window\\Editor_Window\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CECB20A-4970-441D-BAA7-733319EFF28A}|Editor_Window\\Editor_Window.vcxproj|solutionrelative:Editor_Window\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Work\\Unity_Engine\\Editor_Window\\Editor_Window\\Main.cpp",
+              "RelativeDocumentMoniker": "Editor_Window\\Main.cpp",
+              "ToolTip": "C:\\Work\\Unity_Engine\\Editor_Window\\Editor_Window\\Main.cpp",
+              "RelativeToolTip": "Editor_Window\\Main.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T19:34:04.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
